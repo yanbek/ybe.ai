@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   description = """"""
   
 [[experience]]
-  title = "Learning Assistant"
+  title = "Teaching Assistant"
   company = "Norges teknisk-naturvitenskapelige universitet - NTNU"
   company_url = "https://www.ntnu.edu/"
   location = "Trondheim"
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   description = """TDT4136 - Introduction to Artificial Intelligence"""
 
 [[experience]]
-  title = "Learning Assistant"
+  title = "Teaching Assistant"
   company = "Norges teknisk-naturvitenskapelige universitet - NTNU"
   company_url = "https://www.ntnu.edu/"
   location = "Trondheim"
@@ -72,7 +72,7 @@ date_format = "Jan 2006"
   description = """TDT4145 - Data Modelling, Databases and Database Management Systems."""
   
 [[experience]]
-  title = "Learning Assistant"
+  title = "Teaching Assistant"
   company = "Norges teknisk-naturvitenskapelige universitet - NTNU"
   company_url = "https://www.ntnu.edu/"
   location = "Trondheim"
@@ -81,7 +81,7 @@ date_format = "Jan 2006"
   description = """TMA4240 - Statistics."""
   
 [[experience]]
-  title = "Learning Assistant"
+  title = "Teaching Assistant"
   company = "Norges teknisk-naturvitenskapelige universitet - NTNU"
   company_url = "https://www.ntnu.edu/"
   location = "Trondheim"
