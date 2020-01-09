@@ -63,6 +63,6 @@ user_groups:
 - Visitors
 ---
 
-Yanzhe Bekkemoen is a Ph.D. Candidate of artificial intelligence at the Norwegian University of Science and Technology (NTNU). His research interests include Explainable Artificial Intelligence (XAI) and Bayesian approaches.
+I am a Ph.D. Candidate of artificial intelligence at the Norwegian University of Science and Technology (NTNU). My research interests include Explainable Artificial Intelligence (XAI) and Bayesian inference.
 
-He is currently finishing his Master's thesis on XAI while starting on his Ph.D. His Ph.D. is about developing new methods for XAI using a probabilistic approach. The algorithms aim to make Deep Learning methods more interpretable. In conclusion, the goal is to achieve machine learning models that have high performance while retaining transparency.
+I am currently finishing my Master's thesis on XAI while starting on a Ph.D. My Ph.D. is about developing new methods for XAI using a probabilistic approach. The algorithms aim to make Deep Learning methods more interpretable. In conclusion, the goal is to achieve machine learning models that have high performance while retaining transparency.
