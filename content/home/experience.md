@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Teaching Assistant"
-  company = "Norges teknisk-naturvitenskapelige universitet - NTNU"
+  company = "Norwegian University of Science and Technology"
   company_url = "https://www.ntnu.edu/"
   location = "Trondheim"
   date_start = "2019-09-01"
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Teaching Assistant"
-  company = "Norges teknisk-naturvitenskapelige universitet - NTNU"
+  company = "Norwegian University of Science and Technology"
   company_url = "https://www.ntnu.edu/"
   location = "Trondheim"
   date_start = "2018-09-01"
@@ -64,7 +64,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Teaching Assistant"
-  company = "Norges teknisk-naturvitenskapelige universitet - NTNU"
+  company = "Norwegian University of Science and Technology"
   company_url = "https://www.ntnu.edu/"
   location = "Trondheim"
   date_start = "2018-01-01"
@@ -73,7 +73,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Teaching Assistant"
-  company = "Norges teknisk-naturvitenskapelige universitet - NTNU"
+  company = "Norwegian University of Science and Technology"
   company_url = "https://www.ntnu.edu/"
   location = "Trondheim"
   date_start = "2017-09-01"
@@ -82,7 +82,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Teaching Assistant"
-  company = "Norges teknisk-naturvitenskapelige universitet - NTNU"
+  company = "Norwegian University of Science and Technology"
   company_url = "https://www.ntnu.edu/"
   location = "Trondheim"
   date_start = "2017-01-01"
