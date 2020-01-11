@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D candidate and MSc student
+role: Ph.D Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,6 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
 - Deep Learning
 - Explainable Artificial Intelligence
 - Computer Intensive Statistical Methods
@@ -29,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: Ph.D in Artificial Intelligence
     institution: Norwegian University of Science and Technology
     year: 2019 - 2024
   - course: MSc in Artificial Intelligence
@@ -65,4 +64,4 @@ user_groups:
 
 I am a Ph.D. Candidate of artificial intelligence at the Norwegian University of Science and Technology (NTNU). My research interests include Explainable Artificial Intelligence (XAI) and Bayesian inference.
 
-I am currently finishing my Master's thesis on XAI while starting on a Ph.D. My Ph.D. is about developing new methods for XAI using a probabilistic approach. The algorithms aim to make Deep Learning methods more interpretable. In conclusion, the goal is to achieve machine learning models that have high performance while retaining transparency.
+I am currently finishing my Master's thesis on XAI while starting on a Ph.D. My Ph.D. is about developing new methods for XAI using a probabilistic approach. The algorithms aim to make Deep Learning methods more interpretable. In conclusion, my goal is to build machine learning models that have high performance while retaining transparency.
